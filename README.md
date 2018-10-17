@@ -2,7 +2,7 @@
 
 Given RNA Seq file wt_1_f.fastq.qz
 
-With the use of R file follwoing questions can be answered, 
+With the use of R Bioconductor package, follwoing questions are answered, 
 
 What fraction of reads in give file has an A nucleotide in the 5th base of the read?
 What is the average numeric quality value of the 5th base of these reads?
